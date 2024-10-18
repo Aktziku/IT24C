@@ -1,0 +1,21 @@
+[
+    {
+      "student_id": 1,
+      "student_name": "Martin",
+      "student_program": "BS-Business Administration",
+      "student_enrolled_date": "2023-01-15"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Jhon Wick",
+      "student_program": "BS-Computer Science",
+      "student_enrolled_date": "2023-02-20"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Tarzan",
+      "student_program": "BS - Chemical Engineering",
+      "student_enrolled_date": "2023-03-10"
+    }
+  ]
+  
